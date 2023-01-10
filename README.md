@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CygnusST3RN
+- 👋 Hi, I’m @Rahul
 - 👀 I’m interested in all type of technological things
 - 🌱 I’m currently learning programming C++
 - 💞️ I’m looking to collaborate on 
